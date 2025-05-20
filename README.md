@@ -1,2 +1,2 @@
-# bimm143_github
+# BIMM 143
 My classwork from BIMM143 S25 at UCSD
