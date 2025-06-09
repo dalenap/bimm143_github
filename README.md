@@ -13,9 +13,11 @@ My classwork from [BIMM143 S25](https://bioboot.github.io/bimm143_S25/) at UC Sa
 
 - 09 [Exploratory Analysis of Halloween Candy](class09/class09.md)
 
-- 10
+- 10 [Structural Bioinformatics (pt1)](class10/class10.html)
 
-- 11
+- 11 [Comparative Structure Analysis](class10/class11.1.html)
+
+  - [AlphaFold](class10/class11.2.html)
 
 - 12
 
