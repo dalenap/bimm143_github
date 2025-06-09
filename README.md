@@ -19,7 +19,7 @@ My classwork from [BIMM143 S25](https://bioboot.github.io/bimm143_S25/) at UC Sa
 
   - [AlphaFold](class10/class11.2.html)
 
-- 12
+- 12 [Genome Informatics](class12/class12.md)
 
 - 13
 
