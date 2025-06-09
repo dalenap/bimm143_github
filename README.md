@@ -9,7 +9,7 @@ My classwork from [BIMM143 S25](https://bioboot.github.io/bimm143_S25/) at UC Sa
 
 - 07 [Machine Learning 1: Principal Component Analysis](class07/class07.md)
 
-- 08 [Breast Cancer Mini Project]()
+- 08 [Breast Cancer Mini Project](class08/class08.md)
 
 - 09
 
