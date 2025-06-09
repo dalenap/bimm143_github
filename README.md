@@ -23,9 +23,11 @@ My classwork from [BIMM143 S25](https://bioboot.github.io/bimm143_S25/) at UC Sa
 
 - 13 [Transcriptomics and the analysis of RNA-Seq data](class13/class13.md)
 
-- 14
+- 14 [RNA-Seq Mini Project](class14/class14.md)
 
-- 15
+- 15 GitHub Introduction
+
+- 16 [Essential Unix]
 
 - 16
 
