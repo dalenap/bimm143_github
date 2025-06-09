@@ -1,13 +1,17 @@
 # BIMM 143
 My classwork from [BIMM143 S25](https://bioboot.github.io/bimm143_S25/) at UC San Diego.
 
+# Classwork Index
+## Introduction to R
 - 04 [Intro to R](class04/class04table.md)
 
 - 05 [Advanced Graphics with **ggplot2**](class05/class05.md)
 
 - 06 [R Functions](class06/class06.md)
 
-- 07 [Machine Learning 1: Principal Component Analysis](class07/class07.md)
+  ## Using R & Other Tools for Bioinformatics Analysis
+
+- 07 [Introduction to Machine Learning for Bioinformatics: Principal Component Analysis](class07/class07.md)
 
 - 08 [Mini-Project: Breast Cancer](class08/class08.md)
 
@@ -33,4 +37,4 @@ My classwork from [BIMM143 S25](https://bioboot.github.io/bimm143_S25/) at UC Sa
 
 - 18 [Mini-Project: Investigating Pertussis Resurgence Mini Project](class18/class18.md)
 
-- 19 [Mini-Project: Cancer Mutation Analysis](class19/lab19_1.pdf)
+- 19 [Mini-Project: Cancer Mutation Analysis](class19/lab19_final.pdf)
