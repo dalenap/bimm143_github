@@ -33,4 +33,4 @@ My classwork from [BIMM143 S25](https://bioboot.github.io/bimm143_S25/) at UC Sa
 
 - 18 [Mini-Project: Investigating Pertussis Resurgence Mini Project](class18/class18.md)
 
-- 19 [Mini-Project: Cancer Mutation Analysis](class19/lab19_1.pdf)
+- 19 [Mini-Project: Cancer Mutation Analysis](class19/lab19_final.pdf)
