@@ -27,7 +27,7 @@ My classwork from [BIMM143 S25](https://bioboot.github.io/bimm143_S25/) at UC Sa
 
 - 15 GitHub Introduction
 
-- 16 [Essential Unix](HW_unix_questions.pdf)
+- 16 [Essential Unix](HW8_unix_questions.pdf)
 
 - 16
 
