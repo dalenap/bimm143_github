@@ -21,7 +21,7 @@ My classwork from [BIMM143 S25](https://bioboot.github.io/bimm143_S25/) at UC Sa
 
 - 12 [Genome Informatics](class12/class12.md)
 
-- 13
+- 13 [Transcriptomics and the analysis of RNA-Seq data](class13/class13.md)
 
 - 14
 
