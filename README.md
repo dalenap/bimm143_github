@@ -2,14 +2,15 @@
 My classwork from [BIMM143 S25](https://bioboot.github.io/bimm143_S25/) at UC San Diego.
 
 # Classwork Index
-## Introduction to R
+
+### Introduction to R
 - 04 [Intro to R](class04/class04table.md)
 
 - 05 [Advanced Graphics with **ggplot2**](class05/class05.md)
 
 - 06 [R Functions](class06/class06.md)
 
-  ## Using R & Other Tools for Bioinformatics Analysis
+### Using R & Other Tools for Bioinformatics Analysis
 
 - 07 [Introduction to Machine Learning for Bioinformatics: Principal Component Analysis](class07/class07.md)
 
